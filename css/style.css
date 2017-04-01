@@ -1,0 +1,103 @@
+/*
+Thanks to:
+- getBootstrap.com Bootstrap 4 (Most Popular HTML, CSS, JS Framework in The World)
+- MDBootstrap.com for their CSS and used for design this template.
+- UIGradients.com for their Gradients design used in this template as background
+- CSShake.surge.sh used as shaking on offer form icon
+- FontAwesome.io for The Amazing Icons stuff.
+- Zedge.net welcome sound.
+- Figma.com for online SVG Maker.
+*/
+html,
+body,
+header,
+.view, .orange-soundcloud, .red-youtube, .blue-frost, .ibiza-sunset {
+    height: 100%;
+}
+/* Navigation*/
+
+.navbar {
+    background-color: #010101;
+}
+
+.top-nav-collapse {
+    background-color: #010101;
+}
+
+@media only screen and (max-width: 768px) {
+    .navbar {
+        background-color: #010101;
+    }
+}
+/*Intro*/
+
+.view {
+	background: #000046; /* fallback for old browsers */
+	background: -webkit-linear-gradient(to left, #000046 , #1CB5E0); /* Chrome 10-25, Safari 5.1-6 */
+	background: linear-gradient(to left, #000046 , #1CB5E0); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+@media (max-width: 768px) {
+    .full-bg-img,
+    .view, .orange-soundcloud, .red-youtube, .blue-frost, .ibiza-sunset {
+        height: auto;
+        position: relative;
+    }
+}
+
+.description {
+    padding-top: 25%;
+    padding-bottom: 3rem;
+    color: #fff
+}
+
+@media (max-width: 992px) {
+    .description {
+        padding-top: 7rem;
+        text-align: center;
+    }
+}
+/* YOUR CUSTOM STYLES */
+.orange-soundcloud {
+	-webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+	background: #fe8c00; /* fallback for old browsers */
+	background: -webkit-linear-gradient(to left, #fe8c00 , #f83600); /* Chrome 10-25, Safari 5.1-6 */
+	background: linear-gradient(to left, #fe8c00 , #f83600); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+.red-youtube {
+	-webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+	background: #e52d27; /* fallback for old browsers */
+	background: -webkit-linear-gradient(to left, #e52d27 , #b31217); /* Chrome 10-25, Safari 5.1-6 */
+	background: linear-gradient(to left, #e52d27 , #b31217); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+.blue-frost {
+	-webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+	background: #00c6ff; /* fallback for old browsers */
+	background: -webkit-linear-gradient(to left, #00c6ff , #0072ff); /* Chrome 10-25, Safari 5.1-6 */
+	background: linear-gradient(to left, #00c6ff , #0072ff); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+.ibiza-sunset {
+	-webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+	background: #ee0979; /* fallback for old browsers */
+	background: -webkit-linear-gradient(to left, #ee0979 , #ff6a00); /* Chrome 10-25, Safari 5.1-6 */
+	background: linear-gradient(to left, #ee0979 , #ff6a00); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
