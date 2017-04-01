@@ -12,3 +12,5 @@ in Other way, You can deploy this template to [Netlify](https://www.netlify.com/
 ### On Android Device
 ![](https://cdn.filestackcontent.com/D52icXKISkO9OXDnFsLI)
 
+### Free to Use, you can download it [here](https://github.com/CraftBootstrap/domains/archive/master.zip "Craft Bootstrap Template") or clone this repo.
+
