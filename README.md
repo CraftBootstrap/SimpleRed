@@ -1,4 +1,4 @@
-## Welcome to Craft Bootstrap
+## Welcome to Craft Bootstrap by bRionZ
 ### We Realizing The Dream on The Website.
 
 
@@ -12,5 +12,9 @@ in Other way, You can deploy this template to [Netlify](https://www.netlify.com/
 ### On Android Device
 ![](https://cdn.filestackcontent.com/D52icXKISkO9OXDnFsLI)
 
-### Free to Use, you can download it [here](https://github.com/CraftBootstrap/domains/archive/master.zip "Craft Bootstrap Template") or clone this repo.
+### How it Works?
+1. Download as .zip or clone from this repository
+2. unzip the downloaded file and open using text editor customize template.
+3. Upload edited file to your hosting using FTP or you can manually upload it.
+4. Final step is pointing your DNS to the server.
 
