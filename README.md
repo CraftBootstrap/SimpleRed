@@ -18,3 +18,5 @@ in Other way, You can deploy this template to [Netlify](https://www.netlify.com/
 3. Upload edited file to your hosting using FTP or you can manually upload it.
 4. Final step is pointing your DNS to the server.
 
+### Remove Audio Backsound
+Simply delete or comment the audio tag <audio>...</audio>
